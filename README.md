@@ -13,3 +13,11 @@ Dias com faturamento superior à média: Conta quantos dias no mês tiveram fatu
 Verificação de número: Dado um número, o programa verifica se ele pertence à sequência de Fibonacci.
 3. Inversão de Strings
 Função de inversão de string: Dada uma string, o programa retorna os caracteres invertidos sem utilizar funções prontas como reverse.
+
+
+Autor
+Desenvolvido por Julia Fonseca De Freitas.
+
+GitHub: juliaffonseca
+LinkedIn: Julia Fonseca 
+E-mail: julia.freitas.fonseca@gmail.com
