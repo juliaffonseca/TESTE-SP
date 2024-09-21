@@ -16,8 +16,11 @@ Função de inversão de string: Dada uma string, o programa retorna os caracter
 
 
 Autor
+
 Desenvolvido por Julia Fonseca De Freitas.
 
 GitHub: juliaffonseca
-LinkedIn: Julia Fonseca 
+
+LinkedIn: Julia Fonseca
+
 E-mail: julia.freitas.fonseca@gmail.com
